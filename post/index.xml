@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>wangzn.me</title>
-    <link>http://wangzn.me/index.xml</link>
-    <description>Recent content on wangzn.me</description>
+    <title>Posts on wangzn.me</title>
+    <link>http://wangzn.me/post/index.xml</link>
+    <description>Recent content in Posts on wangzn.me</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <managingEditor>wangzn04@gmail.com (Zhongning Wang)</managingEditor>
     <webMaster>wangzn04@gmail.com (Zhongning Wang)</webMaster>
     <copyright>(c) 2017 wangzn04@gmail.com.</copyright>
     <lastBuildDate>Thu, 06 Apr 2017 21:45:24 +0800</lastBuildDate>
-    <atom:link href="http://wangzn.me/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://wangzn.me/post/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>just another post</title>
