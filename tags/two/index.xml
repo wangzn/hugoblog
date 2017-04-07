@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Two on wangzn.me</title>
-    <link>http://wangzn.me/tags/two/index.xml</link>
+    <link>https://wangzn.me/tags/two/index.xml</link>
     <description>Recent content in Two on wangzn.me</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <managingEditor>wangzn04@gmail.com (Zhongning Wang)</managingEditor>
     <webMaster>wangzn04@gmail.com (Zhongning Wang)</webMaster>
     <copyright>(c) 2017 wangzn04@gmail.com.</copyright>
-    <atom:link href="http://wangzn.me/tags/two/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://wangzn.me/tags/two/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>just another post</title>
-      <link>http://wangzn.me/2017/04/06/just-another-post/</link>
+      <link>https://wangzn.me/2017/04/06/just-another-post/</link>
       <pubDate>Thu, 06 Apr 2017 21:45:24 +0800</pubDate>
       <author>wangzn04@gmail.com (Zhongning Wang)</author>
-      <guid>http://wangzn.me/2017/04/06/just-another-post/</guid>
+      <guid>https://wangzn.me/2017/04/06/just-another-post/</guid>
       <description>&lt;p&gt;TITAN Xp is powered by Pascal to deliver up to 3X the performance of previous-generation graphics cards, plus innovative new gaming technologies and breakthrough VR experiences.&lt;/p&gt;
 </description>
     </item>
